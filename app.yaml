@@ -1,0 +1,6 @@
+domains:
+- hugo-starter-VeyisRavi.wasmer.app
+kind: wasmer.io/App.v0
+name: veyisravi-hugo-starter
+owner: veyisravi
+package: .
